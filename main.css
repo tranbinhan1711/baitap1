@@ -1,0 +1,171 @@
+#main{
+    width:100%;
+    height:100%;
+}
+#header{
+    display:flex;
+}
+video{
+    width:600px;
+    margin-right: 50px;
+    margin-top: 250px;
+}
+.header__lienhe{
+    width:70%;
+    margin:100px 50px 100px 100px;
+    
+
+}
+.header__lienhe h1{
+    font-size: 130px;
+    text-align: center;
+}
+.header__lienhe button{
+    color:blue;
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 180px;
+    
+}
+.header__lienhe h5{
+    text-align: center;
+    font-style:italic;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.header__lienhe h4{
+    text-align: center;
+    font-style:italic;
+    font-weight: 350;
+    margin-top: 20px;
+
+
+}
+.body__header-one{
+    width:32%;
+    border: solid 1px;
+    height:400px;
+
+}
+.body__header{
+    display:flex;
+    margin-left: 50px;
+}
+.fa-water{
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+.body__header h2{
+    font-size: 25px;
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 600;
+}
+.body__header-one p{
+    width:330px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.body__img{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.body__img-one{
+    display:flex;
+}
+.body__img-one-2-1{
+    display:flex;
+}
+.body__img-one-2-2{
+    display:flex;
+}
+.body__img-one-2-1 img{
+    width:240px;
+    height:250px;
+    margin:5px;
+}
+.body__img-one-2-2 img{
+    width:240px;
+    height:250px;
+    margin:5px;
+}
+.body__img-one-1 img{
+    width:500px;
+    height:480px;   
+    
+}
+.body__img-two{
+    display:flex;
+}
+.body__img-two img{
+    width:300px;
+    margin:7px;
+}
+.lienhe-1{
+    display:flex;
+    margin-left: 30px;
+    margin: 20px 0;
+}
+.lienhe-1 i{
+    align-items: center;
+    font-size: 20px;
+    padding:5px;
+}
+.footer__lienhe{
+    width:450px;
+    background-color: black;
+    color:#fff;
+    margin-left: 200px;
+    height:500px    
+    
+}
+.lienhe-1 a{
+    color:#fff;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.lienhe-1 p{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.footer__lienhe h5{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#footer{
+    display:flex;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.khung{
+    display:flex;
+}
+.footer__khung{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.khung input{
+    margin-left: 50px;
+    height:35px;
+}
+.form-control{
+    padding:10px;
+    border:1px solid #ccc;
+    width:100%;
+}
+.footer__khung button{
+    background-color: aqua;
+    width:60px;
+    height:40px;
+    border-radius: 5px;
+    border:none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.footer__khung input{
+    width:200px;
+}
